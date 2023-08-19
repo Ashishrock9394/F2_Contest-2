@@ -33,12 +33,6 @@ Run in Web-Browser
   Run index.html
 ```
 
-## Screenshots
-
-Home Page Screenshot:-
-
-![App Screenshot](https://github.com/Ashishrock9394/Frontend_Aug_Contest-1/blob/main/images/s1.png)
-
 
 
 ## Tech Stack

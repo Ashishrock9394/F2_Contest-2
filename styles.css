@@ -97,8 +97,8 @@ td a:hover{
     cursor: pointer;
 }
 
-/* For screens smaller than 768px */
-@media (max-width: 768) {
+/* For screens smaller than 800px */
+@media (max-width: 800) {
     /* CSS styles here */
     body {
       font-size: 14px;
